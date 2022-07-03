@@ -547,7 +547,7 @@
 
  - **Demo 1: Working with Docker in more details on Linux.**
  
-    In this demo you will learn and understand more about docker, container, image, also understand different between docker and virual machine,
+    In this demo you will learn and understand more about docker, container, image, also understand different between docker and virtual machine,
     and  how to  install docker on linux
 
 
