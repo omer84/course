@@ -557,7 +557,7 @@
 
  - **Demo 3: More about Docker and how to use Docker compose.**
 
-   In this demo you will learn and understand more about docker compose, and also how to create docker compose file and run multiple container on same time.
+   In this demo you will learn and understand more about docker compose, and also how to create docker compose file and run multiple container on same time..
     
 
 
